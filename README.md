@@ -1,10 +1,10 @@
 # DemoRepo
 
-#git checkout -b newbranch
+git checkout -b newbranch
 <br>
-#git add -A 
+git add -A 
 <br>
-#git commit -m "Message" 
+git commit -m "Message" 
 <br>
-#git push origin newbranch 
+git push origin newbranch 
 <br>

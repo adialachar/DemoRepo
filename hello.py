@@ -4,7 +4,7 @@
 def main():
 
 	print("Hello Venus")
-	print("Hello Joelio")
+	print("Joel vs Rudy")
 
 if __name__ == "__main__":
 	main()
